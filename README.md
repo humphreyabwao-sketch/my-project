@@ -1,8 +1,5 @@
 # Dual AI Assistant - OpenAI & DeepSeek Integration
 
-![Project Preview](https://via.placeholder.com/800x400.png?text=AI+Assistant+Interface) 
-*Replace with actual screenshot*
-
 A web-based interface for interacting with cutting-edge AI models from OpenAI and DeepSeek, featuring real-time responses, model comparison, and seamless switching between different AI providers.
 
 ## 📌 Features
